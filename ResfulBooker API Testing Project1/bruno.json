@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ResfulBooker API Testing Project#1",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
