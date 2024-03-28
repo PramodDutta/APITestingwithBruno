@@ -1,4 +1,4 @@
-# APITestingwithBruno
+# API Testing with Bruno(Demo)
 
 API Testing Project with Bruno 
 
